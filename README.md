@@ -1,2 +1,2 @@
 # React-tree
- React tree component
+ 基于React构建tree组件
